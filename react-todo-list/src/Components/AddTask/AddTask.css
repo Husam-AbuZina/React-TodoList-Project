@@ -1,0 +1,12 @@
+  input {
+    border: none;
+  }
+  
+  input:focus {
+    outline: none;
+  }
+
+  img:hover{
+    opacity: 1;
+    cursor: pointer;
+  }

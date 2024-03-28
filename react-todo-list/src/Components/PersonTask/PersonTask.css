@@ -1,0 +1,51 @@
+.person-task {
+    margin-top: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    padding: 5px;
+  }
+  
+  .person-name {
+    display: flex;
+    align-items: center;
+  }
+  
+  .person-name img {
+    margin-right: 8px;
+  }
+  
+  .end {
+    margin-left: auto;
+  }
+  
+.checked {
+  opacity: 1;
+}
+
+.edit-cancel-btn {
+  background-color: red;
+  color: white;
+}
+
+.edit-save-btn {
+  background-color: green;
+  color: white;
+  margin-right: 3px;
+}
+
+.edit-cancel-btn:hover {
+  background-color: rgb(255, 120, 120);
+  color: black;
+  border: none;
+  cursor: pointer;
+}
+
+.edit-save-btn:hover {
+  background-color: rgb(120, 255, 120);
+  color: black;
+  border: none;
+  cursor: pointer;
+}

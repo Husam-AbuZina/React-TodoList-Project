@@ -1,0 +1,11 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.todo-list-container {
+    width: 45%;
+    height: 45%;
+    margin: 0 auto;
+}

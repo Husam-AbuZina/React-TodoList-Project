@@ -1,0 +1,29 @@
+.person-task-checked {
+    margin-top: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    padding: 5px;
+  }
+  
+  .person-name-checked {
+    display: flex;
+    align-items: center;
+  }
+  
+  .person-name-checked img {
+    margin-right: 8px;
+    opacity: 1;
+  }
+  
+  .end-checked {
+    margin-left: auto;
+    opacity: 1;
+  }
+
+  .span-checked {
+    opacity: 1;
+  }
+  
